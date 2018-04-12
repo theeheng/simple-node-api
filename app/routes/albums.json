@@ -1,0 +1,37 @@
+[
+    {
+        "title": "The Greatest Showman (Original Motion Picture Soundtrack)",
+        "artist": "Various artists",
+        "url": "https://www.amazon.co.uk/Greatest-Showman-Original-Picture-Soundtrack/dp/B076Q7YJV1",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61tbmGS4AYL._SS500.jpg",
+        "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/816q%2BoT1MZL._SL500_SR160,160_.jpg"
+    },
+    {
+        "title": "Staying at Tamara's",
+        "artist": "George Ezra",
+        "url": "https://www.amazon.co.uk/Staying-Tamaras-Explicit-George-Ezra/dp/B078T27BQM",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51Mr3TAbJBL._SS500_PIPJStripe-Robin-Large-V2,TopLeft,0,0.jpg",
+        "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/81jldmfD43L._SL500_SS200_PJStripe-Robin,TopLeft,0,0_SR160,160_.jpg"
+    },
+    {
+        "title": "The Thrill Of It All",
+        "artist": "Sam Smith",
+        "url": "https://www.amazon.co.uk/Thrill-All-Special-Explicit/dp/B0762Z2H81",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51hU7RkdrbL._SS500.jpg",
+        "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/81I%2BJvudpIL._SL500_SR160,160_.jpg"
+    },
+    {
+        "title": "Number Ones",
+        "artist": "Michael Jackson",
+        "url": "https://www.amazon.co.uk/Number-Ones-Michael-Jackson/dp/B00QQH0OIY",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/41yldE2tz7L._SS500.jpg",
+        "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/61jPFBVQF7L._SL500_SR160,160_.jpg"
+    },
+    {
+        "title": "Abba Gold Greatest Hits",
+        "artist": "ABBA",
+        "url": "https://www.amazon.co.uk/Abba-Gold-Greatest-Hits-ABBA/dp/B001KEB1NU",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/41e%2B97rH3OL._SS500.jpg",
+        "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/61RYlktiz4L._SL500_SR160,160_.jpg"
+    }
+]
