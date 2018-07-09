@@ -14,7 +14,7 @@ module.exports = function(app, db) {
     if(req.query['name'])
     {
 		var filtered = _.filter(data, function(album){
-    return album.title.indexOf(req.query['name'])>-1;
+    return album.title.toLowerCase().indexOf(req.query['name'].toLowerCase())>-1;
     });
 		res.send(filtered)
 	}
